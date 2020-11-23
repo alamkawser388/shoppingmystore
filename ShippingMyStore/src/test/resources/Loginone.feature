@@ -1,4 +1,4 @@
-@TeamBlue 
+@SmokeTest 
 Feature: Validate login function and verify the total price with shipping in MyStore 
 
 
